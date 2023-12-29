@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ImportVirgil.iml" filepath="$PROJECT_DIR$/ImportVirgil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/line-of-virgil.iml" filepath="$PROJECT_DIR$/line-of-virgil.iml" />
     </modules>
   </component>
 </project>
